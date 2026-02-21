@@ -277,10 +277,10 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 sakiidev
 
-https://img.shields.io/badge/GitHub-sakiidev-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Discord-sakiidev-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/YouTube-@kiisute-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/TikTok-@sakiidev-000000?style=for-the-badge&logo=tiktok&logoColor=white
+![Java](https://img.shields.io/badge/GitHub-sakiidev-100000?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Discord-sakiidev-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Java](https://img.shields.io/badge/YouTube-@kiisute-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Java](https://img.shields.io/badge/TikTok-@sakiidev-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 </div>
 
@@ -290,9 +290,9 @@ Se você gostou do AkiCord e ele te ajudou de alguma forma, considere dar uma es
 
 <div align="center">
 
-https://img.shields.io/badge/⭐-Dar%20Estrela-yellow?style=for-the-badge
-https://img.shields.io/badge/🍴-Fazer%20Fork-blue?style=for-the-badge
-https://img.shields.io/badge/👀-Watch-red?style=for-the-badge
+![Java](https://img.shields.io/badge/⭐-Dar%20Estrela-yellow?style=for-the-badge)
+![Java](https://img.shields.io/badge/🍴-Fazer%20Fork-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/👀-Watch-red?style=for-the-badge)
 
 </div>
 
@@ -302,6 +302,6 @@ https://img.shields.io/badge/👀-Watch-red?style=for-the-badge
 
 ⚡ Desenvolvido com ❤️ por sakiidev ⚡
 
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradient=6A5ACD,4B0082,8A2BE2
+![Java](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradient=6A5ACD,4B0082,8A2BE2)
 
 </div>
