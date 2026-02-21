@@ -1,0 +1,43 @@
+# AkiCord Configuration
+# Proxy Minecraft de alta performance
+
+# Host e porta do proxy
+host: 0.0.0.0
+port: 25577
+
+# Configurações gerais
+max-players: 100
+online-mode: false
+ip-forward: true
+
+# Mensagem do servidor (use & para cores)
+motd: "&bAkiCord &7- &fProxy Minecraft"
+
+# Servers disponíveis
+servers:
+  lobby:
+    address: localhost
+    port: 25565
+    motd: "&aLobby Server"
+  survival:
+    address: localhost
+    port: 25566
+    motd: "&2Survival Server"
+  creative:
+    address: localhost
+    port: 25567
+    motd: "&eCreative Server"
+
+# Prioridade de conexão inicial
+priorities:
+  - lobby
+  - survival
+  - creative
+
+# Configurações de rede
+netty:
+  threads: 4
+  epoll: true
+
+# Logging
+debug: false
